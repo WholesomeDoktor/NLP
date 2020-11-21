@@ -10,8 +10,8 @@ Accuracy of the program was under satisfactory conditons.
 ### UNIX
 
 Inorder to run the program, make sure these files are present in the same folder
-1. test-words-misspelled
-2.test-words-misspelled
+1. test-words-misspelled /n
+2.test-words-misspelled  /n
 3.test-words-misspelled
 
 Other files will be created as the program runs. 
