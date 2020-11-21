@@ -9,8 +9,7 @@ Accuracy of the program was under satisfactory conditons.
 ## HOW TO RUN 
 ### UNIX
 
-Inorder to run the program, make sure these files are present in the same folder
-
+Inorder to run the program, make sure these files are present in the same folder:
 1. test-words-misspelled
 
 2.test-words-misspelled
