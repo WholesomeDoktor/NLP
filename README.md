@@ -12,9 +12,9 @@ Accuracy of the program was under satisfactory conditons.
 Inorder to run the program, make sure these files are present in the same folder:
 1. test-words-misspelled
 
-2.test-words-misspelled
+ 2.test-words-misspelled
 
-3.test-words-misspelled
+ 3.test-words-misspelled
 
 Other files will be created as the program runs. 
 
