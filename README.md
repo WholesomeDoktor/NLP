@@ -1,4 +1,4 @@
-# NLP
+# Spelling Mistake Detector
 
 The Spelling checking project was built around ntlk library. Using regexp_tokenize to produce a list of words which are separated based on punctutations. 
 The program starts with open and close functions followed by removal of character from the lists using replace and case folding. 
